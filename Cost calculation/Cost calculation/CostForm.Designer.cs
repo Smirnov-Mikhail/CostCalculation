@@ -42,7 +42,7 @@
             // 
             // lengthtTextBox
             // 
-            this.lengthtTextBox.Location = new System.Drawing.Point(92, 66);
+            this.lengthtTextBox.Location = new System.Drawing.Point(106, 66);
             this.lengthtTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.lengthtTextBox.Name = "lengthtTextBox";
             this.lengthtTextBox.Size = new System.Drawing.Size(67, 23);
@@ -50,7 +50,7 @@
             // 
             // widthTextBox
             // 
-            this.widthTextBox.Location = new System.Drawing.Point(168, 66);
+            this.widthTextBox.Location = new System.Drawing.Point(182, 66);
             this.widthTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.widthTextBox.Name = "widthTextBox";
             this.widthTextBox.Size = new System.Drawing.Size(67, 23);
@@ -58,7 +58,7 @@
             // 
             // heightTextBox
             // 
-            this.heightTextBox.Location = new System.Drawing.Point(244, 66);
+            this.heightTextBox.Location = new System.Drawing.Point(258, 66);
             this.heightTextBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.heightTextBox.Name = "heightTextBox";
             this.heightTextBox.Size = new System.Drawing.Size(67, 23);
@@ -71,7 +71,6 @@
             this.NameMaterial.Location = new System.Drawing.Point(36, 66);
             this.NameMaterial.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.NameMaterial.Name = "NameMaterial";
-            this.NameMaterial.Size = new System.Drawing.Size(36, 17);
             this.NameMaterial.TabIndex = 3;
             this.NameMaterial.Text = "Дом";
             // 
@@ -79,7 +78,7 @@
             // 
             this.Next.Cursor = System.Windows.Forms.Cursors.Hand;
             this.Next.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.Next.Location = new System.Drawing.Point(369, 129);
+            this.Next.Location = new System.Drawing.Point(400, 150);
             this.Next.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Next.Name = "Next";
             this.Next.Size = new System.Drawing.Size(115, 41);
@@ -101,7 +100,7 @@
             // 
             this.memoLengthLabel.AutoSize = true;
             this.memoLengthLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.memoLengthLabel.Location = new System.Drawing.Point(92, 43);
+            this.memoLengthLabel.Location = new System.Drawing.Point(106, 43);
             this.memoLengthLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.memoLengthLabel.Name = "memoLengthLabel";
             this.memoLengthLabel.Size = new System.Drawing.Size(48, 17);
@@ -112,7 +111,7 @@
             // 
             this.memoWidthLabel.AutoSize = true;
             this.memoWidthLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.memoWidthLabel.Location = new System.Drawing.Point(164, 43);
+            this.memoWidthLabel.Location = new System.Drawing.Point(182, 43);
             this.memoWidthLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.memoWidthLabel.Name = "memoWidthLabel";
             this.memoWidthLabel.Size = new System.Drawing.Size(59, 17);
@@ -123,7 +122,7 @@
             // 
             this.memoHeightLabel.AutoSize = true;
             this.memoHeightLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.memoHeightLabel.Location = new System.Drawing.Point(240, 43);
+            this.memoHeightLabel.Location = new System.Drawing.Point(258, 43);
             this.memoHeightLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.memoHeightLabel.Name = "memoHeightLabel";
             this.memoHeightLabel.Size = new System.Drawing.Size(55, 17);

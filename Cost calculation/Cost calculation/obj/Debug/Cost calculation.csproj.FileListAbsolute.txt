@@ -1,0 +1,9 @@
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\bin\Debug\Cost calculation.exe.config
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\bin\Debug\Cost calculation.exe
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\bin\Debug\Cost calculation.pdb
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost calculation.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost_calculation.CostForm.resources
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost_calculation.Properties.Resources.resources
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost calculation.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost calculation.exe
+C:\Users\Михаил\Desktop\Cost calculation\Cost calculation\obj\Debug\Cost calculation.pdb
