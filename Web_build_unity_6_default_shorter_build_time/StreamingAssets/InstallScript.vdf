@@ -1,0 +1,13 @@
+"InstallScript"
+{
+	"Run Process On Uninstall"
+	{
+		"Delete_game_files"
+		{
+			"process 1"		"delete_files.bat"
+			"In Steam"		"1"
+			"NoWait"		"0"
+			"AsCurrentUser"		"1"
+		}
+	}
+}
